@@ -1,16 +1,37 @@
-## Hi there 👋
+About Me
 
-<!--
-**SujinaSundar/SujinaSundar** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Hi, I’m Sujina 👋
+I’m a passionate aspiring Data Scientist and AI/ML enthusiast who enjoys solving real-world problems using Python and machine learning. I’m currently learning and building projects in Data Science, Deep Learning, NLP, and Backend Development.
 
-Here are some ideas to get you started:
+💻 Skills & Technologies
+Python
+NumPy, Pandas, Matplotlib
+Machine Learning & Deep Learning
+TensorFlow & PyTorch
+FastAPI
+Git & GitHub
+SQL
+Data Structures & Algorithms
+📚 Currently Learning
+BERT & GPT models
+Model Optimization & Deployment
+CI/CD and Testing
+Advanced DSA Concepts
+NLP and Generative AI
+🚀 Projects
+Resume Analyzer
+Machine Learning APIs using FastAPI
+Data Analysis Projects
+NLP-based Applications
+🌱 Interests
+Artificial Intelligence
+Data Science
+Problem Solving
+Open Source Learning
+Building Real-world Applications
+📫 Connect With Me
+GitHub: Add your GitHub link
+LinkedIn: Add your LinkedIn link
+Email: Add your email
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+“Keep learning, keep building, and trust the process.”
