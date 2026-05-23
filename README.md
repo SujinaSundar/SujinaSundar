@@ -53,9 +53,9 @@ I’m currently learning and building projects in:
 ---
 
 ## 📫 Connect With Me
-- GitHub: Your GitHub Link
-- LinkedIn: Your LinkedIn Link
-- Email: Your Email
+- GitHub: https://github.com/SujinaSundar
+- LinkedIn: www.linkedin.com/in/sujinasundar
+- Email: sujinasundar2025@gmail.com
 
 ---
 
